@@ -490,7 +490,8 @@ html {
 body,button, input, select, textarea {
   color: #333;
   font-family: 'Helvetica Neue', 'Hiragino Sans GB', 'Microsoft YaHei', Helvetica, Arial, sans-serif; 
-  /* font-family: Exo,'-apple-system','Open Sans',HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif; */
+  /* font-family: Exo,'-apple-system','Open Sans',HelveticaNeue-Light,'Helvetica Neue Light',
+                  'Helvetica Neue','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif; */
 }
 body, dl, dd, ul, ol, h1, h2, h3, h4, h5, h6, pre, form, fieldset, legend, input, textarea, optgroup,
 p, blockquote, figure, hr, menu, dir,
