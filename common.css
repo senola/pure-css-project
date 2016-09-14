@@ -563,8 +563,6 @@ img {
   height: auto; /** 防止 img 指定「height」时图片高度不能按照宽度等比缩放，导致图片变形 **/
 }
 textarea, select, input  {
-  outline: 0;
-  border-radius: 4px;
   box-shadow: none;
 }
 
